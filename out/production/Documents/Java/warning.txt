@@ -1,0 +1,11 @@
+Phép cộng và phép trừ, sử dụng +và-
+Nhân và chia, sử dụng *và/
+Toán tử modulo để tìm số dư,%
+Các toán tử gán ghép +=, -=, *=, /=và %=.
+Thứ tự thực hiện: ngoặc đơn -> số mũ -> nhân, chia, modulo -> cộng, trừ
+Lớn hơn, >và nhỏ hơn,<
+Bằng, ==và không bằng,!=
+Lớn hơn hoặc bằng, >=và nhỏ hơn hoặc bằng,<=
+equals()để so sánh Strings và các đối tượng khác
+Dùng +để nối Strings
+Từ finalkhóa làm cho các biến không thể thay đổi
