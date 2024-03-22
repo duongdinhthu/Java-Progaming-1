@@ -2,7 +2,11 @@ public class Student {
     private int id;
     private String name;
     private boolean gender;
-
+public Student(){
+    this.id=-1;
+    this.name="noname";
+    this.gender=true;
+}
     public Student(int id, String name, boolean gender) {
         this.id = id;
         this.name = name;
